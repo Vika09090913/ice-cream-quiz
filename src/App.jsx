@@ -172,17 +172,6 @@ function App() {
 
         return (
     <>
-      <img 
-        src="https://i.pinimg.com/736x/df/87/4e/df874e4ec0db41cea7f5070fdb62c705.jpg" 
-        alt="Logo" 
-        className="corner-logo"
-      />
-      
-      <img 
-        src="https://i.pinimg.com/736x/76/e9/76/76e9762d2f1d44faa0a6e61aebb3dbfe.jpg" 
-        alt="Seal ice cream" 
-        className="bottom-right-image"
-      />
 
       <div className="quiz-container">
         <img 

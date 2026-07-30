@@ -16,16 +16,6 @@ body {
   padding: 20px;
 }
 
-.corner-logo {
-  position: fixed;
-  top: 20px;
-  left: 20px;
-  width: 150px;
-  height: auto;
-  z-index: 1000;
-  object-fit: contain;
-}
-
 .quiz-container {
   width: 100%;
   display: flex;
@@ -291,14 +281,4 @@ p {
   font-weight: 700;
   color: #ff6b8a;
   font-size: 12px;
-}
-
-.bottom-right-image {
-  position: fixed;
-  bottom: 20px;
-  right: 20px;
-  width: 200px;
-  height: auto;
-  z-index: 1000;
-  pointer-events: none;
 }
